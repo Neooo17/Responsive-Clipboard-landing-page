@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL here]()
-- Live Site URL: [live site URL here]()
+- Live Site URL: [live site URL here](https://neooo17.github.io/Responsive-Clipboard-landing-page/)
 
 ## My process
 
